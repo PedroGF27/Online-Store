@@ -1,2 +1,2 @@
 Author: Pedro Garcia
-Purpose: make an online store
+Purpose: Make an Online Store.
